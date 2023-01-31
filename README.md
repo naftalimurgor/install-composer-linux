@@ -1,5 +1,6 @@
 # install-composer-linux
 Works on Ubuntu 20.4.5 server with `PHP` version 7.4
+Pre-requisites: `php v7.4`
 
 ## Usage
 
